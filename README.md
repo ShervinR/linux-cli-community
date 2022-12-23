@@ -93,11 +93,11 @@ It is recommended to do the manual installation in a virtual environment. Especi
 
 1. Clone this repository
 
-    `git clone https://github.com/ProtonVPN/linux-cli-community`
+    `git clone https://github.com/ShervinR/linux-cli-community`
 
 2. Step into the directory
 
-   `cd linux-cli`
+   `cd linux-cli-community`
 
 3. Install
 
