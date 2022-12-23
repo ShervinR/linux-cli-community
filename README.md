@@ -24,33 +24,7 @@ The community Linux client described below remains available for those who need 
 
 For more detailed information on installing, updating and uninstalling, please view the extensive [usage guide](https://github.com/ProtonVPN/linux-cli-community/blob/master/USAGE.md#installation--updating).
 
-### Installing from distribution repositories
 
-For the following Linux distribution(s), install the official `protonvpn-cli` package:
-
-#### Fedora
-
-```sh
-sudo dnf install -y protonvpn-cli
-```
-
-#### CentOS & RHEL
-
-`protonvpn-cli` is available for CentOS/RHEL 7.x and 8.x via the [EPEL repositories](https://fedoraproject.org/wiki/EPEL).
-
-**For CentOS/RHEL 7.x**:
-
-```sh
-sudo yum install https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
-sudo yum install protonvpn-cli
-```
-
-**For CentOS/RHEL 8.x**:
-
-```sh
-sudo dnf install https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm
-sudo dnf install -y protonvpn-cli
-```
 
 ### Installing from PyPI
 
